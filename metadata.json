@@ -1,0 +1,6 @@
+{
+  "name": "OHC Medicine Suggestion",
+  "description": "A clean OHC medicine suggestion tool matching common health problems with stock medicines from the Detailed Medicine Guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
